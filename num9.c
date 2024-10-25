@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#include <ctype.h>
+#include <stdlib.h>
 
 void rollDice() {
     int num = (rand() % 6)+ 1;
