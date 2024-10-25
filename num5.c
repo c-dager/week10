@@ -17,7 +17,7 @@ void printInOrder(int a, int b, int c){
             min = c;
         }
     }
-    printf("%d %d %d\n", min,mid,max);
+    printf("In order: %d %d %d\n", min,mid,max);
 }
 int main(){
     int one;
