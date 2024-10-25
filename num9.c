@@ -3,7 +3,7 @@
 #include <ctype.h>
 
 void rollDice() {
-    int num = (rand() % 6)+ 1;;
+    int num = (rand() % 6)+ 1;
     printf("You rolled a: %d\n", num);
 }
 
