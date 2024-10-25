@@ -5,5 +5,5 @@ int main(){
     printf("Type your first name: \n");
     scanf("%s", name);
     int total = strlen(name);
-    printf("Hello, %s, your name has %d letters\n", name, total);
+    printf("Hello, %s, your name has %d letters!\n", name, total);
 }
