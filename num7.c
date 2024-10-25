@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <limits.h>
+#include <stdlib.h>
 
 void generateRand(int num){
     for(int i = 0; i < num; i++){
